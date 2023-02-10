@@ -1,6 +1,11 @@
 <h1>Formação Cisco Packet Tracer</h1>
 
+<img height="450" src="/Users/alexandredasilvasantos/Library/Mobile Documents/com~apple~CloudDocs/Workspace/projeto-rede-com-dois-pcs-com-cabo-cross-overs/formacao-cisco-packet-tracer/img/img.jpg" width="500"/>
+
 <body align="justify">
+
+<h4 align="center"><a href="https://alexandresantosal91.github.io/portfolio/">Clique para visitar o projeto</a></h4>
+
 <p>
 O Cisco Packet Tracer é um software de simulação de rede desenvolvido pelo Cisco Systems. Ele fornece um ambiente 
 virtual para projeto, configuração e simulação de redes, permitindo que os usuários testem e pratiquem diferentes 
@@ -35,4 +40,17 @@ usuários projetar, configurar e testar redes em um ambiente virtual.
 <li><p>Exploring Internet of Things with Cisco Packet Tracer: <a href="https://skillsforall.com/course/exploring-iot-cisco-packet-tracer?userLang=en-US">clique aqui</a> </p></li>
 <li><p>Introduction to Packet Tracer Exam: <a href="https://skillsforall.com/exam/introduction-packet-tracer?userLang=en-US">clique aqui</a> </p></li>
 </ul>
+
+<h3>Autor</h3>
+<table>
+  <tr>
+    <td align="center"  width="150px">
+      <a href="https://github.com/alexandresantosal91">
+        <img src="https://avatars.githubusercontent.com/u/122564125?s=400&u=89b5e90a309d06830dcac867a6a5a8e2940ff693&v=4" alt="Foto do Alexandre no GitHub"/>
+        <br> <b>Alexandre Santos</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </body>

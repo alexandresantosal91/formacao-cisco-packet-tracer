@@ -16,8 +16,6 @@ IP, comutação, acesso sem fio e segurança. Isso o torna uma ferramenta ideal 
 desenvolverem seus conhecimentos e habilidades em design, configuração e solução de problemas em redes.
 </p>
 
-
-
 <p>
 Em resumo, o Cisco Packet Tracer é uma ferramenta poderosa de simulação e visualização de redes que permite aos 
 usuários projetar, configurar e testar redes em um ambiente virtual.

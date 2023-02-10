@@ -28,9 +28,9 @@ usuários projetar, configurar e testar redes em um ambiente virtual.
 
 <h3>Recursos utlizados durante o treinamento:</h3>
 <ul>
+<li><p>Cisco Packet Tracer: <a href="https://skillsforall.com/resources/lab-downloads?userLang=pt-BR">Downalod</a> </p></li>
 <li><p>WebStorm: <a href="https://www.jetbrains.com/pt-br/webstorm/">Download</a></p></li>
 <li><p>GitHub Desktop: <a href="https://desktop.github.com">Download</a></p></li>
-<li><p>Cisco Packet Tracer: <a href="https://skillsforall.com/resources/lab-downloads?userLang=pt-BR">Downalod</a> </p></li>
 </ul>
 
 <h3>Formação Cisco Packet Tracer:</h3>
@@ -40,6 +40,12 @@ usuários projetar, configurar e testar redes em um ambiente virtual.
 <li><p>Exploring Internet of Things with Cisco Packet Tracer: <a href="https://skillsforall.com/course/exploring-iot-cisco-packet-tracer?userLang=en-US">clique aqui</a> </p></li>
 <li><p>Introduction to Packet Tracer Exam: <a href="https://skillsforall.com/exam/introduction-packet-tracer?userLang=en-US">clique aqui</a> </p></li>
 </ul>
+
+<h3>Conteúdos Adicionais</h3>
+
+[Edgar Costa - Trilha: Cisco Packet Tracer](https://www.youtube.com/playlist?list=PLn5ao6UqCBSkO9VoGeSJietvpxLu3jAiB)
+
+[Hardware Redes Brasil - Curso de Cisco Packet Tracer](https://www.youtube.com/playlist?list=PLAp37wMSBouDeR3lBP2SsEe6GC5YW2UIg)
 
 <h3>Autor</h3>
 <table>

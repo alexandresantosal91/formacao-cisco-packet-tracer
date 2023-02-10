@@ -1,7 +1,7 @@
 <h1 align="center">Formação Cisco Packet Tracer</h1>
 
 <p align="center">
-<img src="/Users/alexandredasilvasantos/Library/Mobile Documents/com~apple~CloudDocs/Workspace/projeto-rede-com-dois-pcs-com-cabo-cross-overs/formacao-cisco-packet-tracer/img/img.jpg" width="900" alt="350"/>
+<img src="img/img.jpg" width="900" alt="350"/>
 </p>
 
 <body align="justify">

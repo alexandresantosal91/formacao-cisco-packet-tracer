@@ -26,13 +26,6 @@ Em resumo, o Cisco Packet Tracer é uma ferramenta poderosa de simulação e vis
 usuários projetar, configurar e testar redes em um ambiente virtual.
 </p>
 
-<h3>Recursos utlizados durante o treinamento:</h3>
-<ul>
-<li><p>Cisco Packet Tracer: <a href="https://skillsforall.com/resources/lab-downloads?userLang=pt-BR">Downalod</a> </p></li>
-<li><p>WebStorm: <a href="https://www.jetbrains.com/pt-br/webstorm/">Download</a></p></li>
-<li><p>GitHub Desktop: <a href="https://desktop.github.com">Download</a></p></li>
-</ul>
-
 <h3>Formação Cisco Packet Tracer:</h3>
 <ul>
 <li><p>Começando com o Cisco Packet Tracer: <a href="https://skillsforall.com/course/getting-started-cisco-packet-tracer?userLang=pt-BR">clique aqui</a></p></li>
